@@ -1,0 +1,13 @@
+
+
+body {
+	background-image: url(skimask.jpg);
+	background-size: cover;
+	background-repeat: repeat-y;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	margin-top: 50px;
+}
